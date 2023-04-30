@@ -1,12 +1,13 @@
 # README
 
-bundle install
-yarn install
-rails db:create
-rails db:migrate
+TO RUN THE PROGRAM:
+* bundle install
+* yarn install
+* rails db:create
+* rails db:migrate
 
-TO RUN THE PROGRAM WITH TAILWIND USE: 
-./bin/dev
+TO RUN THE PROGRAM WITH TAILWIND USE:- 
+* ./bin/dev
 
 
 
